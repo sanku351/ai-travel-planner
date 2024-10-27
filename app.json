@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "travel",
+    "slug": "travel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appsplash.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/appsplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sanku351.travel"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cabc6561-9801-47e8-9b48-8106ebf02915"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+export { default as HeroImage } from "./hero.png"
+export { default as Avatar } from "./avatar.jpg"
+export { default as Hotels } from "./hotel.png";
+export { default as Attractions } from "./attraction.png";
+export { default as Restaurants } from "./restaurants.png";
+export { default as Oops } from "./oops.gif";
+export { default as TripLoading } from "./triploading.gif"
+export { default as PlaceHolder } from "./placeholder.jpg"
+export { default as GoogleLogo } from "./googlelogo.png"
+export { default as EmailLogo } from "./maillogo.png"
+export { default as Splash } from "./appsplash.png"
